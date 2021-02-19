@@ -1,0 +1,14 @@
+.img {
+    width: 40ex;
+    box-shadow: 0 5px 5px rgba(122,122,122,0.5);
+    border-radius: 20px;
+    margin: 10px;
+}
+.img1 {
+    display: flex;
+    justify-content: space-around;
+}
+.h2 {
+    font-size: 20px;
+    text-align: center;
+}
