@@ -5,10 +5,6 @@ body {
     font-family: "Comfortaa", regular;
     color: #002f6c;
     background-color: #dab8a9;
-    /*background-image: url('img/back1.jpg');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;*/
 }
 .a {
     color:#ffffff;
@@ -19,7 +15,7 @@ body {
         text-decoration: underline;
         font-weight: bold;
     }
-h1 {
+.h1 {
     font-size: 24px;
     text-align: center;
     }
