@@ -1,0 +1,68 @@
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/bin/Debug/net8.0/appsettings.json
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/bin/Debug/net8.0/appsettings.Production.json
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/bin/Debug/net8.0/appsettings.Staging.json
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/bin/Debug/net8.0/lab6.exe
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/bin/Debug/net8.0/lab6.deps.json
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/bin/Debug/net8.0/lab6.runtimeconfig.json
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/bin/Debug/net8.0/lab6.dll
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/bin/Debug/net8.0/lab6.pdb
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/obj/Debug/net8.0/lab6.csproj.AssemblyReference.cache
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/obj/Debug/net8.0/lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/obj/Debug/net8.0/lab6.AssemblyInfoInputs.cache
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/obj/Debug/net8.0/lab6.AssemblyInfo.cs
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/obj/Debug/net8.0/lab6.csproj.CoreCompileInputs.cache
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/obj/Debug/net8.0/lab6.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/obj/Debug/net8.0/lab6.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/obj/Debug/net8.0/staticwebassets/msbuild.lab6.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/obj/Debug/net8.0/staticwebassets/msbuild.build.lab6.props
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.lab6.props
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.lab6.props
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/obj/Debug/net8.0/scopedcss/bundle/lab6.styles.css
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/obj/Debug/net8.0/lab6.csproj.Up2Date
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/obj/Debug/net8.0/lab6.dll
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/obj/Debug/net8.0/refint/lab6.dll
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/obj/Debug/net8.0/lab6.pdb
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/obj/Debug/net8.0/lab6.genruntimeconfig.cache
+C:/Users/ASUS/OneDrive/Рабочий стол/lab6/obj/Debug/net8.0/ref/lab6.dll
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/bin/Debug/net8.0/appsettings.Development.json
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/bin/Debug/net8.0/appsettings.json
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/bin/Debug/net8.0/appsettings.Production.json
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/bin/Debug/net8.0/appsettings.Staging.json
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/bin/Debug/net8.0/lab6
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/bin/Debug/net8.0/lab6.deps.json
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/bin/Debug/net8.0/lab6.runtimeconfig.json
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/bin/Debug/net8.0/lab6.dll
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/bin/Debug/net8.0/lab6.pdb
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/obj/Debug/net8.0/lab6.csproj.AssemblyReference.cache
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/obj/Debug/net8.0/lab6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/obj/Debug/net8.0/lab6.AssemblyInfoInputs.cache
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/obj/Debug/net8.0/lab6.AssemblyInfo.cs
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/obj/Debug/net8.0/lab6.csproj.CoreCompileInputs.cache
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/obj/Debug/net8.0/lab6.MvcApplicationPartsAssemblyInfo.cs
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/obj/Debug/net8.0/lab6.MvcApplicationPartsAssemblyInfo.cache
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/obj/Debug/net8.0/staticwebassets.build.json
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/obj/Debug/net8.0/staticwebassets.development.json
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/obj/Debug/net8.0/staticwebassets/msbuild.lab6.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/obj/Debug/net8.0/staticwebassets/msbuild.build.lab6.props
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.lab6.props
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.lab6.props
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/obj/Debug/net8.0/scopedcss/bundle/lab6.styles.css
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/obj/Debug/net8.0/lab6.csproj.Up2Date
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/obj/Debug/net8.0/lab6.dll
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/obj/Debug/net8.0/refint/lab6.dll
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/obj/Debug/net8.0/lab6.pdb
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/obj/Debug/net8.0/lab6.genruntimeconfig.cache
+/Users/vdsmirnovv/Desktop/stud/back/ready6/lab6/obj/Debug/net8.0/ref/lab6.dll
